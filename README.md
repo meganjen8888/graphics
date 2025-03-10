@@ -1,1 +1,1 @@
-In this repository are some logos and graphics I designed and drew with Photoshop, as part of my graphics library which I use for UI or other projects. 
+In this repository are some customed graphics I have designed and produced with Photoshop, as part of my graphics library which I use my UI projects. 
